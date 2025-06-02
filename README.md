@@ -173,10 +173,10 @@
 
 ### 加入医疗数据交流群
 
-欢迎扫描下方二维码，加入我们的医疗数据交流群，与同行研究者交流讨论：
+欢迎扫描下方二维码，若数据链接失效，加入我们的医疗数据交流群，与同行研究者交流讨论：
 
 <div align="center">
-<img src="assets/qrcode-contact.png" alt="医疗数据交流群二维码" width="25%" />
+<img src="assets/wechat_qrcode.png" alt="医疗数据交流群二维码" width="25%" />
 <br>
 <em>扫码加入医疗数据交流群</em>
 </div>
